@@ -8,7 +8,7 @@
 
 ------------------------------------------------------------------------------------------------------------------------
 
-## General info:
+## General-info:
 
 This Blogging web application project is purely made with Django as the backend.
 
