@@ -18,7 +18,7 @@ This web application creates a very basic blog site using Django. The site allow
 
 ## Setup
 
-To run this app, you will need to follow these 4 steps:
+To run this app, you will need to follow these 5 steps:
 
 1. Clone This Project (Make Sure You Have Git Installed)
 ```
