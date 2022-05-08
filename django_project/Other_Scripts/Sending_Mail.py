@@ -16,7 +16,7 @@ class SendOutlookMailClass:
     """ This class ("SendOutlookMailClass") responsible for send emails from outlook account """
 
     def __init__(self):
-        self.logger = logging.getLogger('Logger_Infrastructure.Projects_Logger.' + self.__class__.__name__)
+        self.logger = logging.getLogger(f'PrivateInfrastructure.Logger_Infrastructure.Projects_Logger.{self.__class__.__name__}')
 
     def send_outlook_mail(self, subject, text, server_name="mail.airspan.com",
                           sender='DjangoBlog@airspan.com', receives=None, username=None, password=None,):

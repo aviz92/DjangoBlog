@@ -2,7 +2,7 @@
 import os
 import sys
 
-from Logger_Infrastructure.Projects_Logger import ProjectsLogging
+from PrivateInfrastructure.Logger_Infrastructure.Projects_Logger import ProjectsLogging
 
 if __name__ == '__main__':
     logger = ProjectsLogging('DjangoBlog').project_logging()
