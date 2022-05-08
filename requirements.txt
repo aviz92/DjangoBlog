@@ -1,1 +1,21 @@
 PrivateInfrastructure @ git+https://${PYCHARM_PIP}@github.com/aviz92/PrivateInfrastructure@main
+
+# Django:
+Django==3.0.7
+django-cors-headers==3.3.0
+django-extensions==2.2.9
+django-js-asset==1.2.2
+django-mptt==0.11.0
+django-mptt-admin==2.0.2
+django-netfields==1.2.2
+djangorestframework==3.11.0
+djangorestframework-recursive==0.1.2
+django-scheduler==0.9.4
+
+# LDAP
+psycopg2==2.8.6
+pyproject
+ldap3
+django-auth-ldap
+# python-ldap
+
